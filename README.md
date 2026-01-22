@@ -2,6 +2,8 @@
 
 这是一个基于强化学习的井字棋（Tic-Tac-Toe）游戏项目，实现了多智能体环境下的Q-Learning算法。
 
+![Tic-Tac-Toe Game](img/tictactoe.png)
+
 ## 项目特点
 
 - 完整的多智能体强化学习环境
