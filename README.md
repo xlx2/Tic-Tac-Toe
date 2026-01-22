@@ -16,7 +16,6 @@ tictactoe/
 ├── tictactoe.py      # 强化学习环境定义
 ├── q_learning.py     # Q学习算法实现
 ├── train.py          # 训练脚本
-├── evaluate.py       # 评估脚本
 ├── human_play.py     # 可视化人机对战
 ├── utils.py          # 工具函数
 ├── img/              # 图像资源目录
